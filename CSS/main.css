@@ -3,6 +3,7 @@ body{
 	margin: 0;
 	box-sizing: border-box;
 	line-height: 1.5;
+    background-color:  #EB8921;
 }
 footer{
     position:absolute;
@@ -37,6 +38,9 @@ img:hover{
 	li{
 		width: 50%; 
 	}
+    body{
+        background-color: #7ec0ee;
+    }
     img:hover{
 /*  transform:rotate(360deg);*/
    transform:scale(1.2);
@@ -52,6 +56,9 @@ img:hover{
 	li{
 		width: 25%; 
 	}
+        body{
+        background-color: #90EE90;
+    }
         img:hover{
 /*  transform:rotate(360deg);*/
 /*   transform:scale(1.2);*/
